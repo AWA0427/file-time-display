@@ -1,0 +1,8 @@
+/* 完美匹配 OneNote 图片样式 */
+.inline-title {
+  font-size: 1.8em !important;
+  font-weight: 700 !important;
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid #e0e0e0; /* 在标题下方直接添加分隔线 */
+  padding-bottom: 5px;
+}
